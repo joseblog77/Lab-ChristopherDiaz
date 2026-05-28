@@ -1,0 +1,14 @@
+export type ThemeColors = {
+  background: string;
+  text: string;
+  textSecondary: string;
+  primary: string;
+  secondary: string;
+  inputBackground: string;
+  buttonPrimaryBg: string;
+  buttonPrimaryText: string;
+  buttonSecondaryBg: string;
+  buttonSecondaryText: string;
+  buttonTertiaryBg: string;
+  buttonTertiaryText: string;
+};
